@@ -1,0 +1,5 @@
+﻿  PZ 4.cpp
+C:\Users\User\Documents\GitHub\PZ-4\PZ 4\PZ 4\PZ 4.cpp(49,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\User\Documents\GitHub\PZ-4\PZ 4\PZ 4\PZ 4.cpp(64,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\GitHub\PZ-4\PZ 4\PZ 4\PZ 4.cpp(93,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PZ 4.vcxproj -> C:\Users\User\Documents\GitHub\PZ-4\PZ 4\Debug\PZ 4.exe
